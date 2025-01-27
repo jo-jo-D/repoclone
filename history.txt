@@ -1,0 +1,40 @@
+  586  git merge feature
+  587  git merge main
+  588  git checkout main
+  589  git merge feature
+  590  git pull origin main
+  591  git merge feature
+  592  git log --oneline --graph --decorate
+  593  touch history.txt
+  594  history -tail 10 >> history.txt
+  595  history | tail -n 10 >> history.txt
+  568  git checkout main
+  569  git branch -d main
+  570  git checkout feature
+  571  git branch -d main
+  572  git checkout main
+  573  git checkout origin
+  574  git checkout master
+  575  git branch
+  576  git branch -r
+  577  git checkout -b main
+  578  git push origin main
+  579  git merge feature
+  580  git merge feature
+  581  git pull
+  582  git fetch origin
+  583  git merge feature
+  584  git branch
+  585  git checkout feature
+  586  git merge feature
+  587  git merge main
+  588  git checkout main
+  589  git merge feature
+  590  git pull origin main
+  591  git merge feature
+  592  git log --oneline --graph --decorate
+  593  touch history.txt
+  594  history -tail 10 >> history.txt
+  595  history | tail -n 10 >> history.txt
+  596  vim history.txt 
+  597  history | tail -n 30 >> history.txt
